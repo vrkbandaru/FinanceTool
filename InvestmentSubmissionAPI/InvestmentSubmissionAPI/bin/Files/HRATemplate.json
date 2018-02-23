@@ -1,0 +1,169 @@
+[
+  {
+    "SNO": "1",
+    "Name": "April",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Apr"
+  },
+
+  {
+    "SNO": "2",
+    "Name": "May",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-May"
+  },
+
+  {
+    "SNO": "3",
+    "Name": "June",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-June"
+  },
+
+  {
+    "SNO": "4",
+    "Name": "July",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-July"
+  },
+
+  {
+    "SNO": "5",
+    "Name": "August",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Aug"
+  },
+
+  {
+    "SNO": "6",
+    "Name": "September",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Sep"
+  },
+
+  {
+    "SNO": "7",
+    "Name": "October",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Oct"
+  },
+
+  {
+    "SNO": "8",
+    "Name": "November",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Nov"
+  },
+
+  {
+    "SNO": "9",
+    "Name": "December",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Dec"
+  },
+
+  {
+    "SNO": "10",
+    "Name": "January",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Jan"
+  },
+
+  {
+    "SNO": "11",
+    "Name": "February",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Feb"
+  },
+
+  {
+    "SNO": "12",
+    "Name": "March",
+    "Placeholder": "",
+    "FileName": "",
+    "Amount": "",
+    "min": "0",
+    "max": "999999",
+    "itemCode": "HRA-Mar"
+  }
+
+  //{
+  //  "SNO": "13",
+  //  "Name": "HRA (yearly rent paid) (If yearly value is  more than 1 lakh and below 1.80 lakh) PAN copy of the house owner with  signature of the owner",
+  //  "Placeholder": "",
+  //  "FileName": "",
+  //  "Amount": "",
+  //  "min": "0",
+  //  "max": "999999",
+  //  "itemCode": "OwnerPAN"
+  //},
+
+  //{
+  //  "SNO": "14",
+  //  "Name": "HRA (yearly rent paid) (If yearly value is  more than 1.80 lakh ) Rental agreement copy",
+  //  "Placeholder": "",
+  //  "FileName": "",
+  //  "Amount": "",
+  //  "min": "0",
+  //  "max": "999999",
+  //  "itemCode": "Rentalagreement"
+  //},
+
+  //{
+  //  "SNO": "15",
+  //  "Name": "Medical bills monthly value Rs. 1250 yearly Rs. 15,000/-",
+  //  "Placeholder": "",
+  //  "FileName": "",
+  //  "Amount": "",
+  //  "min": "0",
+  //  "max": "999999",
+  //  "itemCode": "Medicalbills"
+  //}
+  					
+
+
+]
